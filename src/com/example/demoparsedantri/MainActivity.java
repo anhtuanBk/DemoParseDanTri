@@ -1,4 +1,3 @@
-
 //test git
 //test fetch
 package com.example.demoparsedantri;
@@ -18,6 +17,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ListView;
+//cont test fetch
 
 public class MainActivity extends Activity implements 
 		OnDataReceiver {
