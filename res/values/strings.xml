@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoParseDanTri</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Thay Main Activity</string>
+    <string name="test_title_news">Lễ hội mùa xuân Việt tại Anh quốc</string>
+    <string name="test_desc_news"> Trường đại học Huddersfield, vùng West Yorkshire, vương quốc Anh hiện đã tổ chức một loạt các sự kiện chào đón Tết cổ truyền dành cho cộng đồng sinh viên vùng Đông Á cũng như cho toàn bộ hơn 20 ngàn sinh viên đến từ 120 nước trên thế giới của trường.</string>
+    <string name="test_pub_date_news">Tuesday, February 07, 2012 6:48 PM</string>
+</resources>
